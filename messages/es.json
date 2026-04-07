@@ -1,0 +1,29 @@
+{
+  "Index": {
+    "hero": {
+      "noKeys": "Sin Llaves.",
+      "noGuards": "Sin Guardias.",
+      "noHassle": "Sin Complicaciones.",
+      "subtitle": "AuraLock convierte cualquier espacio en una zona segura totalmente automatizada.",
+      "getStarted": "Empezar",
+      "buyNow": "Comprar Ahora",
+      "bookDemo": "Reservar Demo",
+      "liveness": "Verificación de Liveness Activa"
+    },
+    "features": {
+      "title": "Reconocimiento Facial Inteligente",
+      "subtitle": "Siempre Activo",
+      "monitoring": "Monitoreo en Tiempo Real"
+    },
+    "hardware": {
+      "title": "Inventario de Hardware"
+    }
+  },
+  "Navigation": {
+    "ecosystem": "Ecosistema",
+    "product": "Producto",
+    "tracking": "Seguimiento",
+    "intelligence": "Inteligencia",
+    "partner": "Portal de Socios"
+  }
+}
